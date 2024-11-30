@@ -1,1 +1,1 @@
-#AOC Solutions for 2024
+# AOC Solutions for 2024
