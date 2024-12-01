@@ -1,5 +1,0 @@
-def solution(): 
-    pass
-
-
-solution()
