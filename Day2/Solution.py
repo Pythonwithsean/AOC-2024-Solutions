@@ -59,7 +59,6 @@ def part2():
             for j in range(len(inp[i])): 
                 rest = inp[i][:j] + inp[i][j+1:]
                 valid, index = validSteps(rest)
-                print(valid,index,rest)
                 if valid and index == -1:
                     total += 1
                     break 
